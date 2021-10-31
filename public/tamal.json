@@ -1,0 +1,44 @@
+[
+    {
+        
+        "name": "Germany",
+        "price": "$300",
+        "description": "We have an offer for winter here. At 20% offer you can travel Germany",
+        "img": "https://www.schengenvisainfo.com/news/wp-content/uploads/2020/06/Germany-citizens-travel.jpg"
+    },
+    {
+       
+        "name": "Irland",
+        "price": "$100",
+        "description": "We have an offer for winter here. At 20% offer you can travel Island.",
+        "img": "https://www.planetware.com/wpimages/2019/11/ireland-best-time-to-visit-best-time-to-travel-rock-of-cashel.jpg"
+    },
+    {
+       
+        "name": "China",
+        "price": "$150",
+        "description": "We have an offer for winter here. At 20% offer you can travel China.",
+        "img": "https://www.china-admissions.com/wp-content/uploads/2020/06/Traveling-in-China-CLI.jpg"
+    },
+    {
+       
+        "name": "Argentina",
+        "price": "$180",
+        "description": "We have an offer for winter here. At 20% offer you can travel Argentina",
+        "img": "https://s3.amazonaws.com/iexplore_web/images/assets/000/006/234/original/Argentina_-_Mount_Fitz_Roy.jpg?1443182077"
+    },
+    {
+       
+        "name": "Dubai",
+        "price": "$100",
+        "description": "We have an offer for winter here. At 20% offer you can travel Dubai.",
+        "img": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/05/dubai-transport-cover.jpg"
+    },
+    {
+        
+        "name": "Bhutan",
+        "price": "$200",
+        "description": "We have an offer for winter here. At 20% offer you can travel Bhutan",
+        "img": "https://cdn.luxe.digital/media/2019/09/11224317/luxe-digital-travel-bhutan-digital-detox-retreat.jpg"
+    }
+]
