@@ -2,11 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://travel-agent-a24e1.web.app/).
 
-## Available Scripts
+## Bullet Point
+1.Service website including admin panel add and remove services
+2. google & login registration Features
+3. 	Handle all orders including add services available
+4. admin add service, status update
+5. my order page only user see the service order
 
 In the project directory, you can run:
 
-### `npm start`
+## tools
+HTML
+CSS
+Bootstrap
+React.js
+Node.js
+Express.js
+Mongodb, Firebase
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
